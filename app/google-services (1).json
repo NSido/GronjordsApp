@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573377595022",
+    "project_id": "gronjordsapp-a9c33",
+    "storage_bucket": "gronjordsapp-a9c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573377595022:android:e7661ca77e81d6d4d3ebdf",
+        "android_client_info": {
+          "package_name": "com.example.p6grnjordsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573377595022-cid6ao9i95msd12eave6h9fj2esvdo8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPaMUYGo4TNi_MNAiOs4yLuWKdFd2R6k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573377595022-cid6ao9i95msd12eave6h9fj2esvdo8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
